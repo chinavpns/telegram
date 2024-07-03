@@ -4,7 +4,7 @@
 
 ![电报注册教程：国内手机号注册Telegram收不到验证码怎么办？](https://raw.githubusercontent.com/chinavpns/telegram/main/image/telegram.jpg)
 
-更多关于<a href=https://wallvpn.com/telegram-tutorial/>Telegram注册</a>的信息，请访问：https://wallvpn.com/telegram-tutorial/
+<p align="center">更多关于<a href=https://wallvpn.com/telegram-tutorial/>Telegram注册</a>的信息，请访问：https://wallvpn.com/telegram-tutorial/</p>
 
 在当今信息飞速发展的时代，越来越多的人开始寻求更为私密和安全的通信工具，而电报（Telegram）无疑是其中的佼佼者。作为一款以高安全性、强加密、跨平台支持以及丰富功能闻名的即时通讯应用，Telegram迅速赢得了全球用户的青睐。然而，对于国内用户来说，注册Telegram电报并非易事，尤其是使用国内手机号注册Telegram时，常常会遇到收不到验证码的问题。这不仅让许多新用户望而却步，也让不少老用户头疼不已。
 
