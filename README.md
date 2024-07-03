@@ -30,11 +30,15 @@ Telegram的功能非常丰富，不仅支持文本消息，还支持语音通话
 
 ### 电脑端下载Telegram方法
 
-如果你使用的是Windows电脑，可以访问Telegram官方网站（ https://telegram.org ），在主页上找到“Get Telegram for Windows”的链接并点击进行下载。下载完成后，运行安装程序并按照提示完成安装。Mac用户同样可以在Telegram官方网站上找到适用于macOS的版本，下载.dmg文件后将Telegram拖动到应用程序文件夹中即可完成安装。对于Linux用户，可以在官方网站上找到适合你发行版的安装包并根据指示进行安装。
+如果你使用的是Windows电脑，可以访问Telegram官方网站，在主页上找到“Get Telegram for Windows”的链接并点击进行下载。下载完成后，运行安装程序并按照提示完成安装。Mac用户同样可以在Telegram官方网站上找到适用于macOS的版本，下载.dmg文件后将Telegram拖动到应用程序文件夹中即可完成安装。对于Linux用户，可以在官方网站上找到适合你发行版的安装包并根据指示进行安装。
+
+* Telegram官方网站：https://telegram.org
 
 ### Telegram网页版使用方法
 
-如果你不想下载客户端，也可以使用Telegram的网页版。只需在浏览器中访问Telegram Web（ https://web.telegram.org/ ），登录你的账号即可开始使用，方便快捷。
+如果你不想下载客户端，也可以使用Telegram的网页版。只需在浏览器中访问Telegram Web，登录你的账号即可开始使用，方便快捷。
+
+* Telegram网页版：https://web.telegram.org/
 
 ### 下载Telegram方法的注意事项
 
@@ -92,7 +96,7 @@ Telegram会发送一个验证码到你输入的手机号码上。然而，由于
 
 如果使用国内手机号码注册Telegram电报时遇到验证码接收问题，另一种有效的方法是使用国外虚拟手机号码。而获取国外虚拟手机号的方法有很多，其中最简单的是借助专业的接码平台。以下是详细步骤：
 
-* 访问接码平台：打开浏览器，访问Sms-activate官网（ https://sms-activate.io ）。
+* 访问接码平台：打开浏览器，访问Sms-activate官网。
 * 注册账号：在平台上注册一个新账号，填写相关信息并进行验证，完成账号创建。
 * 充值账户：接码平台通常需要支付一定的费用才能使用服务。登录后，选择“充值”选项，通过支付宝、微信或其他支持的支付方式进行充值。
 * 选择服务：充值完成后，返回主页。在服务列表中选择“Telegram”作为你需要接码的服务。
