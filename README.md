@@ -268,7 +268,7 @@ Telegram电报频道是用户获取信息和资讯的好渠道，允许频道管
 
 * 必须要使用VPN
 
-由于GFW（防火长城）的存在，Telegram在中国无法直接访问。因此，必须使用VPN才能正常使用Telegram。选择一个可靠的VPN服务至关重要，推荐使用ExpressVPN、PureVPN或Surfshark等，这些VPN在中国的使用效果较好。
+由于GFW（防火长城）的存在，Telegram在中国无法直接访问。因此，必须使用VPN才能正常使用Telegram。选择一个可靠的VPN服务至关重要，推荐使用<a href="https://bit.ly/ep-vpn" rel="nofollow">ExpressVPN（30天免费）</a>、<a href="https://bit.ly/pe-vpn" rel="nofollow">PureVPN（每月仅需2.11美金）</a>等，这些VPN在中国的使用效果较好。
 
 * 选择合适的VPN节点
 
