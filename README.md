@@ -24,6 +24,8 @@ Telegram的功能非常丰富，不仅支持文本消息，还支持语音通话
 
 ## 如何下载Telegram电报？
 
+![如何下载Telegram电报：电报注册教程，国内手机号注册Telegram收不到验证码怎么办？](https://raw.githubusercontent.com/chinavpns/telegram/main/image/Telegram-register-2.jpg)
+
 下载Telegram电报非常简单，适用于各种设备，包括手机、平板和电脑。下面是详细的步骤指南，帮助你快速完成下载和安装。
 
 ### 手机端下载Telegram方法
