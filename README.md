@@ -26,6 +26,8 @@ Telegram的功能非常丰富，不仅支持文本消息，还支持语音通话
 
 ![如何下载Telegram电报：电报注册教程，国内手机号注册Telegram收不到验证码怎么办？](https://raw.githubusercontent.com/chinavpns/telegram/main/image/Telegram-register-2.jpg)
 
+注意：中国大陆用户在下载Telegram客户端之前，必须要先成功地连上VPN！最好用的电报VPN首推：<a href="https://bit.ly/ep-vpn" rel="nofollow">ExpressVPN</a> - 翻墙稳定，安全性高，速度行业内最快，在105个国家有3000台服务器，支持BT种子下载，提供24小时在线客服，30天退款保证，不满意全额退款！
+
 下载Telegram电报非常简单，适用于各种设备，包括手机、平板和电脑。下面是详细的步骤指南，帮助你快速完成下载和安装。
 
 ### 手机端下载Telegram方法
@@ -53,6 +55,8 @@ Telegram的功能非常丰富，不仅支持文本消息，还支持语音通话
 ## 如何注册Telegram电报？
 
 ![Telegram注册：电报注册教程，国内手机号注册Telegram收不到验证码怎么办？](https://raw.githubusercontent.com/chinavpns/telegram/main/image/telegram-register-3.jpg)
+
+注意：中国大陆用户在注册Telegram帐号之前，必须要先成功地连上VPN！最好用的电报VPN首推：<a href="https://bit.ly/ep-vpn" rel="nofollow">ExpressVPN</a> - 翻墙稳定，安全性高，速度行业内最快，在105个国家有3000台服务器，支持BT种子下载，提供24小时在线客服，30天退款保证，不满意全额退款！
 
 注册Telegram电报其实非常简单，无论你使用的是国内手机号码还是国外虚拟手机号码，都可以顺利完成注册。接下来，我们将详细介绍两种方法，帮助你快速开启Telegram之旅。
 
