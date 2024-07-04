@@ -52,6 +52,8 @@ Telegram的功能非常丰富，不仅支持文本消息，还支持语音通话
 
 ## 如何注册Telegram电报？
 
+![Telegram注册：电报注册教程，国内手机号注册Telegram收不到验证码怎么办？](https://raw.githubusercontent.com/chinavpns/telegram/main/image/telegram-register-3.jpg)
+
 注册Telegram电报其实非常简单，无论你使用的是国内手机号码还是国外虚拟手机号码，都可以顺利完成注册。接下来，我们将详细介绍两种方法，帮助你快速开启Telegram之旅。
 
 ### 方法一：使用国内手机号码注册Telegram电报
