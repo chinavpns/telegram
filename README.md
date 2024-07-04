@@ -25,7 +25,7 @@ Telegram的功能非常丰富，不仅支持文本消息，还支持语音通话
 🚀 **注意：由于Telegram、TikTok、ChatGPT等网站都被中国防火墙（GFW）屏蔽了，所以中国大陆用户在下载、安装、注册和使用Telegram之前，必须要先成功地连上VPN！** 🚀
 
 * 注册Telegram电报首选VPN：**<a href="https://bit.ly/ep-vpn" rel="nofollow">ExpressVPN（30天免费）</a>** - 翻墙稳定，安全性高，速度行业内最快，在105个国家有3000台服务器，支持BT种子下载，提供24小时在线客服，30天退款保证，不满意全额退款！
-* 注册Telegram电报可选VPN：**<a href="https://bit.ly/pe-vpn" rel="nofollow">PureVPN</a>** - 安全好用，在70个国家88个地区部署了6500多台服务器，价格相对便宜，每月仅需2.11美金！
+* 注册Telegram电报可选VPN：**<a href="https://bit.ly/pe-vpn" rel="nofollow">PureVPN</a>** - 安全好用，在70个国家88个地区部署了6500多台服务器，价格相对便宜，每月仅需2.11美金，还提供专属的静态独立IP地址！
 
 ## 如何下载Telegram电报？
 
