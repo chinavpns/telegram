@@ -59,13 +59,13 @@ Telegram的功能非常丰富，不仅支持文本消息，还支持语音通话
 
 如果你使用的是Windows电脑，可以访问Telegram官方网站，在主页上找到“Get Telegram for Windows”的链接并点击进行下载。下载完成后，运行安装程序并按照提示完成安装。Mac用户同样可以在Telegram官方网站上找到适用于macOS的版本，下载.dmg文件后将Telegram拖动到应用程序文件夹中即可完成安装。对于Linux用户，可以在官方网站上找到适合你发行版的安装包并根据指示进行安装。
 
-* Telegram官方网站：https://telegram.org
+* Telegram官方网站：telegram.org
 
 ### Telegram网页版使用方法
 
 如果你不想下载客户端，也可以使用Telegram的网页版。只需在浏览器中访问Telegram Web，登录你的账号即可开始使用，方便快捷。
 
-* Telegram网页版：https://web.telegram.org/
+* Telegram网页版：web.telegram.org
 
 ### 下载Telegram时的注意事项
 
