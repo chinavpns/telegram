@@ -1,6 +1,6 @@
 # <p align="center">电报注册教程：国内手机号注册Telegram收不到验证码怎么办？</p>
 
-<p align="center">最近更新于：2024年10月27日</p>
+<p align="center">最近更新于：2024年10月30日</p>
 
 ![电报注册教程：国内手机号注册Telegram收不到验证码怎么办？](https://raw.githubusercontent.com/chinavpns/telegram/main/image/telegram.jpg)
 
