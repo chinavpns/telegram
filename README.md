@@ -20,7 +20,7 @@
 
 </blockquote>
 
-以上三款VPN不仅可以用于注册Telegram账号，还能轻松解锁Google、YouTube、TikTok、Netflix、Hulu、Spotify、Steam、ChatGPT、Claude和Midjourney等网站！此外，中国用户在访问Telegram官网和Google Play应用商店时也必须要使用VPN软件。 
+以上三款VPN不仅可以用于注册Telegram账号，还能轻松解锁Google、YouTube、TikTok、Netflix、Hulu、Spotify、Steam、ChatGPT、Claude和Midjourney等网站！此外，它们也都提供为期30天的退款保证，不好用可以随时申请退款，大家可以放心地购买使用！
 
 <blockquote>
   <h2 id="本文内容导航">本文内容导航</h2>
