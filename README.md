@@ -1,6 +1,6 @@
 # <p align="center">电报注册教程：国内手机号注册Telegram收不到验证码怎么办？</p>
 
-<p align="center">最近更新于：2024年11月5日</p>
+<p align="center">最近更新于：2024年11月17日</p>
 
 ![电报注册教程：国内手机号注册Telegram收不到验证码怎么办？](https://raw.githubusercontent.com/chinavpns/telegram/main/image/telegram.jpg)
 
@@ -88,7 +88,7 @@ Telegram的功能非常丰富，不仅支持文本消息，还支持语音通话
 
 * 第一步：选择一款安全且好用的VPN
 
-由于GFW（防火长城）的存在，中国网民要想访问和使用Telegram，必须选择一款安全且好用的VPN。这一步至关重要，推荐使用：<a href="https://wallvpn.com/go/expressvpn/" rel="nofollow">ExpressVPN（30天免费）</a>或<a href="https://wallvpn.com/go/purevpn/" rel="nofollow">PureVPN（每月仅需2.11美金）</a>。ExpressVPN以其稳定的翻墙效果、快速的连接速度和强大的安全性著称，在105个国家部署了超过3000台服务器，非常适合访问Telegram、ChatGPT、TikTok等网站。
+由于GFW（防火长城）的存在，中国网民要想访问和使用Telegram，必须选择一款安全且好用的VPN。这一步至关重要，推荐使用：<a href="https://wallvpn.com/go/expressvpn/" rel="nofollow">ExpressVPN（限时钜惠，30天退款保证）</a>或<a href="https://wallvpn.com/go/purevpn/" rel="nofollow">PureVPN（每月仅需2.11美金）</a>。ExpressVPN以其稳定的翻墙效果、快速的连接速度和强大的安全性著称，在105个国家部署了超过3000台服务器，非常适合访问Telegram、ChatGPT、TikTok等网站。
 
 * 第二步：打开Telegram应用
 
@@ -129,7 +129,7 @@ OK，以上就是导致国内手机号码无法接收Telegram验证码的主要�
 
 如果使用国内+86手机号码注册Telegram电报时遇到验证码接收问题，另一种有效的解决办法是使用国外虚拟手机号码。而获取国外虚拟手机号的方式有很多，其中最简单的是借助专业的接码平台。以下是具体步骤：
 
-🚨注意：在访问专业的接码平台之前，也需要先成功连上VPN。推荐使用：<a href="https://wallvpn.com/go/expressvpn/" rel="nofollow">ExpressVPN（30天免费）</a>
+🚨注意：在访问专业的接码平台之前，也需要先成功连上VPN。推荐使用：<a href="https://wallvpn.com/go/expressvpn/" rel="nofollow">ExpressVPN（限时钜惠，30天退款保证）</a>
 
 * 访问接码平台：打开浏览器，访问<a href=https://wallvpn.com/go/sms/>Sms-activate官网</a>。
 * 注册账号：点击右上角的“注册”按钮，并按照流程完成帐号注册。
