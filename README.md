@@ -339,7 +339,7 @@ Telegram电报频道是用户获取信息和资讯的好渠道，允许频道管
 
 * <a href=https://github.com/chinavpns/chinavpns.github.io>中国VPN推荐</a>和<a href=https://github.com/chinavpns/chinavpns.github.io>最好用的VPN排行</a>：我们基于VPN中国大陆实测之后，挑选了几款最好用的国内VPN，它们可帮助中国网民快速访问国外Google、Facebook、Youtube、Netflix、ChatGPT、TikTok、Telegram等网站！
 
-* <a href=https://github.com/chinavpns/vpnintochina>翻墙回国</a>和<a href=https://github.com/chinavpns/vpnintochina>回国VPN推荐</a>：海外华人如何翻墙回国内获取大陆IP地址观看2025年欧洲杯中文解说直播，并访问国内受地域限制的腾讯视频、爱奇艺、优酷视频、QQ音乐、网易云音乐、微信朋友圈、微博等平台。
+* <a href=https://github.com/chinavpns/vpnintochina>翻墙回国</a>和<a href=https://github.com/chinavpns/vpnintochina>回国VPN推荐</a>：海外华人如何翻墙回国内获取大陆IP地址并访问国内受地域限制的腾讯视频、爱奇艺、优酷视频、QQ音乐、网易云音乐、微信朋友圈、微博等平台。
 
 * <a href=https://github.com/chinavpns/pcvpn.github.io>电脑翻墙</a>和<a href=https://github.com/chinavpns/pcvpn.github.io>电脑VPN推荐</a>：2025年最好用的电脑VPN推荐！本文将详细介绍目前最有效的电脑翻墙方法，并为大家推荐几款在中国最好用的PC端VPN，以帮助大家找到最适合的电脑翻墙软件，轻松访问海外Google、Facebook、Youtube、ChatGPT、Telegram、TikTok等网站。
 
