@@ -33,7 +33,6 @@
   <h3 id="4-如何使用telegram电报">4. <a href="#如何使用telegram电报">如何使用Telegram电报？</a></h3>
   <h3 id="5-在中国使用telegram电报的注意事项">5. <a href="#在中国使用telegram电报的注意事项">在中国使用Telegram电报的注意事项</a></h3>
   <h3 id="6-电报注册总结如何注册telegram帐号">6. <a href="#电报注册总结如何注册telegram帐号">电报注册总结：如何注册Telegram帐号？</a></h3>
-  <h3 id="7-其他相关文章">7. <a href="#其他相关文章">其他跟注册TG帐号相关的文章</a></h3>
 </blockquote>
 
 ## 什么是电报Telegram？
