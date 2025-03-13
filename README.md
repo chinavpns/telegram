@@ -330,8 +330,6 @@ Telegram电报频道是用户获取信息和资讯的好渠道，允许频道管
 
 总之，通过本文的指导，你可以在中国顺利完成Telegram注册，并享受其带来的高效通讯服务。如果你在注册过程中遇到任何问题，记得参考本文提供的解决方案，确保你的电报注册过程无忧无虑。希望你能充分利用Telegram的各项功能，与朋友和家人保持紧密联系，获取最新资讯，丰富你的数字生活。
 
-<p align="center">更多关于<a href=https://wallvpn.com/telegram-tutorial/>Telegram注册</a>的信息，请访问：https://wallvpn.com/telegram-tutorial/</p>
-
 ## Telegram注册相关的其他文章：
 
 * <a href="https://chinavpns.github.io/">科学上网指南</a>、<a href="https://chinavpns.github.io/">翻墙VPN</a>和<a href="https://chinavpns.github.io/">翻墙软件</a>推荐：在这篇文章中，我们将详细地为大家介绍什么是科学上网，为什么要科学上网，以及如何科学上网！我们也基于中国大陆实测，为大家挑选了几款最好用的翻墙VPN，它们翻墙稳定，连接速度快，可以很好地兼容电脑、苹果手机、安卓手机等设备。
