@@ -22,11 +22,11 @@
 
 以上三款VPN不仅可以用于注册Telegram账号，还能轻松解锁Google、YouTube、TikTok、Netflix、Hulu、Spotify、Steam、ChatGPT、Claude和Midjourney等网站！而且它们也都提供为期30天的退款保证，不好用可以随时申请退款，大家可以放心地购买使用！
 
-* 如果你在中国大陆不知道如何从苹果App Store下载Telegram应用，请查看本文下方"手机端下载Telegram方法"。
+🚨 **小提示：** 🚨
 
-* 如果你想订阅Telegram Premium会员，可以使用"WildCard野卡信用卡"进行支付。更多信息请查阅：WildCard野卡申请教程！
+如果你在中国大陆不知道如何从苹果App Store下载Telegram应用，请查看本文下方"<a href="https://github.com/chinavpns/telegram?tab=readme-ov-file#%E6%89%8B%E6%9C%BA%E7%AB%AF%E4%B8%8B%E8%BD%BDtelegram%E6%96%B9%E6%B3%95">手机端下载Telegram方法</a>"。
 
-此外，如果你想订阅Telegram Premium会员，可以使用“WildCard野卡虚拟信用卡”进行支付。更多信息请参考：“<a href="https://github.com/chinavpns/chatgpt-plus?tab=readme-ov-file#chatgpt-plus%E8%B4%AD%E4%B9%B0%E6%96%B9%E6%B3%95%E4%B8%80%E5%9B%BD%E5%86%85%E6%94%AF%E4%BB%98%E5%AE%9D%E5%BC%80%E9%80%9Achatgpt-plus%E5%B8%90%E5%8F%B7">如何获取WildCard野卡虚拟信用卡</a>？”
+如果你想订阅Telegram Premium会员，可以使用"WildCard信用卡"进行支付，详情请参阅：<a href="https://github.com/chinavpns/chatgpt-plus?tab=readme-ov-file#chatgpt-plus%E8%B4%AD%E4%B9%B0%E6%96%B9%E6%B3%95%E4%B8%80%E5%9B%BD%E5%86%85%E6%94%AF%E4%BB%98%E5%AE%9D%E5%BC%80%E9%80%9Achatgpt-plus%E5%B8%90%E5%8F%B7">WildCard申请教程</a>！
 
 <blockquote>
   <h2 id="本文内容导航">本文内容导航</h2>
