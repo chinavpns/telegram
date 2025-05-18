@@ -67,6 +67,8 @@ Telegram的功能非常丰富，不仅支持文本消息，还支持语音通话
 
 **注意**：中国用户获取美区Apple ID账号最简单、最直接的方法是通过“**<a href="https://wallvpn.com/go/nf-video/">银河录像局</a>**”购买一个现成的美区Apple ID账号。具体操作步骤如下：进入银河录像局官网后使用手机号注册账号，在官网首页依次点击“增值服务”和“苹果商店”，然后使用支付宝支付人民币20元，即可获得一个可长期稳定使用的美区Apple ID账号。
 
+![Telegram电报注册教程：手机端下载Telegram方法 - 通过银河录像局获取美区Apple ID帐号](https://raw.githubusercontent.com/chinavpns/telegram/refs/heads/main/image/Telegram-nf-video.png)
+
 ### 电脑端下载Telegram方法
 
 如果你使用的是Windows电脑，可以访问Telegram官方网站，在主页上找到“Get Telegram for Windows”的链接并点击进行下载。下载完成后，运行安装程序并按照提示完成安装。Mac用户同样可以在Telegram官方网站上找到适用于macOS的版本，下载.dmg文件后将Telegram拖动到应用程序文件夹中即可完成安装。对于Linux用户，可以在官方网站上找到适合你发行版的安装包并根据指示进行安装。
