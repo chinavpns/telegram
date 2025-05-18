@@ -61,7 +61,7 @@ Telegram的功能非常丰富，不仅支持文本消息，还支持语音通话
 
 ### 手机端下载Telegram方法
 
-* 如果你是Android用户，可以直接在Google Play商店中搜索“Telegram”，找到官方应用后，点击“安装”即可完成下载。
+* 如果你是Android用户，直接在Google Play商店中搜索“Telegram”，找到官方应用后，点击“安装”即可完成下载。
 
 * 如果你是iOS用户，必须先获取一个美区Apple ID账号。接下来，打开App Store，退出你当前的Apple ID账号，并使用美区Apple ID登录。当美区Apple ID登录成功后，在App Store中搜索“Telegram”，根据系统提示完成下载和安装即可。
 
