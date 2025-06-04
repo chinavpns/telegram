@@ -1,6 +1,6 @@
 # <p align="center">电报注册教程：国内手机号注册Telegram收不到验证码怎么办？</p>
 
-<p align="center">最近更新于：2025年5月18日</p>
+<p align="center">最近更新于：2025年6月4日</p>
 
 ![电报注册教程：国内手机号注册Telegram收不到验证码怎么办？](https://raw.githubusercontent.com/chinavpns/telegram/main/image/telegram.jpg)
 
@@ -65,9 +65,11 @@ Telegram的功能非常丰富，不仅支持文本消息，还支持语音通话
 
 * 如果你是iOS用户，必须先获取一个美区Apple ID账号。接下来，打开App Store，退出你当前的Apple ID账号，并使用美区Apple ID登录。当美区Apple ID登录成功后，在App Store中搜索“Telegram”，根据系统提示完成下载和安装即可。
 
-**注意**：中国用户获取美区Apple ID账号最简单、最直接的方法是通过“**<a href="https://wallvpn.com/go/nf-video/">银河录像局</a>**”购买一个现成的美区Apple ID账号。具体操作步骤如下：进入银河录像局官网后使用手机号注册账号，在官网首页依次点击“增值服务”和“苹果商店”，然后使用支付宝支付人民币20元，即可获得一个可长期稳定使用的美区Apple ID账号。
+**注意**：中国用户获取美区Apple ID账号最简单、最直接的方法是通过“**<a href="https://wallvpn.com/go/nf-video/">银河录像局</a>**”购买一个现成的美区Apple ID账号。具体操作步骤如下：进入银河录像局官网后使用手机号注册账号，在官网首页依次点击“增值服务”和“苹果商店”，然后使用支付宝支付人民币20元，即可获得一个独属于你自己且可长期稳定使用的美区Apple ID账号。
 
 ![Telegram电报注册教程：手机端下载Telegram方法 - 通过银河录像局获取美区Apple ID帐号](https://raw.githubusercontent.com/chinavpns/telegram/refs/heads/main/image/Telegram-nf-video.png)
+
+<p align="center"><a href="https://wallvpn.com/go/nf-video/">立即访问银河录像局官网</a></p>
 
 ### 电脑端下载Telegram方法
 
