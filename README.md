@@ -1,6 +1,6 @@
 # <p align="center">电报注册教程：国内手机号注册Telegram收不到验证码怎么办？</p>
 
-<p align="center">最近更新于：2025年6月4日</p>
+<p align="center">最近更新于：2025年7月6日</p>
 
 ![电报注册教程：国内手机号注册Telegram收不到验证码怎么办？](https://raw.githubusercontent.com/chinavpns/telegram/main/image/telegram.jpg)
 
@@ -381,3 +381,9 @@ Telegram电报频道是用户获取信息和资讯的好渠道，允许频道管
 * <a href="https://github.com/chinavpns/hot-site">翻墙后看什么</a>：翻墙必看的国外社交、视频、音乐、新闻、游戏、学习、购物等网站推荐。
 
 * <a href="https://github.com/chinavpns/video-site">国外视频网站</a>：热门海外视频网站汇总，包括国外付费视频网站和受欢迎的免费视频网站。
+
+* <a href="https://github.com/chinavpns/overseas-live">国外直播平台</a>：详细盘点全球范围内最受欢迎的几大海外直播平台，并深入介绍它们各自的特色和优势。
+
+* <a href="https://github.com/chinavpns/torrent-site">BT种子网站</a>：除了推荐BT网站外，还会介绍几款好用的BT下载工具，帮助大家更好地下载BT种子资源。
+
+* <a href="https://github.com/chinavpns/movie-site">免费电影网站</a>：推荐最新海外免费看片网站，无广告、无需会员、速度快，支持中文字幕和高清播放。
