@@ -24,16 +24,12 @@
 
 <blockquote>
 
-**小提示**
+🚨 **小提示**
 
 * 如果你身处中国大陆，想在iOS设备上下载Telegram应用，请参考本文下方的“手机端下载Telegram教程”。
 * 如果你的大陆手机号无法收到Telegram注册验证码，请参考本文下方的“国外手机号码注册Telegram教程”。
 
 </blockquote>
-
-🚨 **小提示：** 🚨
-
-如果你在中国大陆不知道如何从苹果App Store下载Telegram应用，请查看本文下方"<a href="https://github.com/chinavpns/telegram?tab=readme-ov-file#%E6%89%8B%E6%9C%BA%E7%AB%AF%E4%B8%8B%E8%BD%BDtelegram%E6%96%B9%E6%B3%95">手机端下载Telegram方法</a>"。
 
 <blockquote>
   <h2 id="本文内容导航">本文内容导航</h2>
