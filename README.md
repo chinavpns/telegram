@@ -22,14 +22,10 @@
 
 以上三款VPN不仅可以用于注册Telegram账号，还能轻松解锁Google、YouTube、TikTok、Netflix、Hulu、Spotify、Steam、ChatGPT、Claude和Midjourney等网站！而且它们也都提供为期30天的退款保证，不好用可以随时申请退款，大家可以放心地购买使用！
 
-<blockquote>
-
 🚨 **小提示**
 
 * 如果你身处中国大陆，想在iOS设备上下载Telegram应用，请参考本文下方的“手机端下载Telegram教程”。
 * 如果你的大陆手机号无法收到Telegram注册验证码，请参考本文下方的“国外手机号码注册Telegram教程”。
-
-</blockquote>
 
 <blockquote>
   <h2 id="本文内容导航">本文内容导航</h2>
