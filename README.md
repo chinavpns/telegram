@@ -140,7 +140,7 @@ OK，以上就是导致国内手机号码无法接收Telegram验证码的主要�
 
 如果使用国内+86手机号码注册Telegram电报时遇到验证码接收问题，另一种有效的解决办法是使用国外虚拟手机号码。而获取国外虚拟手机号的方式有很多，其中最简单的是借助专业的接码平台。以下是具体步骤：
 
-🚨注意：在访问专业的接码平台之前，也需要先成功连上VPN。推荐使用：<a href="https://wallvpn.com/go/expressvpn/" rel="nofollow">ExpressVPN（限时钜惠，30天退款保证）</a>
+🚨注意：在访问专业的接码平台之前，也需要先成功连上VPN。推荐使用：<a href="https://wallvpn.com/go/expressvpn/" rel="nofollow">ExpressVPN</a>
 
 * 访问接码平台：打开浏览器，访问<a href=https://wallvpn.com/go/sms/>Sms-activate官网</a>。
 * 注册账号：点击右上角的“注册”按钮，并按照流程完成帐号注册。
