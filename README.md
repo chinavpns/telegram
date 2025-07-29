@@ -1,6 +1,6 @@
 # <p align="center">电报注册教程：国内手机号注册Telegram收不到验证码怎么办？</p>
 
-<p align="center">最近更新于：2025年7月27日</p>
+<p align="center">最近更新于：2025年7月29日</p>
 
 ![电报注册教程：国内手机号注册Telegram收不到验证码怎么办？](https://raw.githubusercontent.com/chinavpns/telegram/main/image/telegram.jpg)
 
@@ -150,6 +150,10 @@ OK，以上就是导致国内手机号码无法接收Telegram验证码的主要�
 * 获取号码：点击获取号码后，平台会分配一个可用的虚拟手机号码给你，然后复制这个号码备用。
 
 接下来，重新打开Telegram客户端，输入从Sms-activate获取的虚拟手机号，接收验证码并完成验证。通过这种方式，你可以顺利绕过国内手机号的限制，成功注册Telegram电报。
+
+![国内手机号注册Telegram收不到验证码怎么办：使用国外虚拟手机号码注册Telegram电报](https://raw.githubusercontent.com/chinavpns/telegram/refs/heads/main/image/Telegram%E6%B3%A8%E5%86%8C-1.png)
+
+<p align="center"><a href=https://wallvpn.com/go/sms/>立即访问Sms-activate官网</a></p>
 
 ## 如何使用Telegram电报？
 
