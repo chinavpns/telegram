@@ -142,7 +142,7 @@ OK，以上就是导致国内手机号码无法接收Telegram验证码的主要�
 
 🚨注意：在访问专业的接码平台之前，也需要先成功连上VPN。推荐使用：<a href="https://wallvpn.com/go/expressvpn/" rel="nofollow">ExpressVPN</a>
 
-* 访问接码平台：打开浏览器，访问<a href=https://wallvpn.com/go/sms/>Sms-activate官网</a>。
+* 访问接码平台：打开浏览器，访问<a href="https://sms-activate.io/?ref=3917403">Sms-activate官网</a>。
 * 注册账号：点击右上角的“注册”按钮，并按照流程完成帐号注册。
 * 充值账户：登录后，分别点击右上角的“余额”和“充值”按钮，并使用支付宝或微信进行充值（充值1-2美金即可）。
 * 选择服务：返回主页，在页面左侧的搜索框中输入“Telegram”并进行搜索。
@@ -153,7 +153,7 @@ OK，以上就是导致国内手机号码无法接收Telegram验证码的主要�
 
 ![国内手机号注册Telegram收不到验证码怎么办：使用国外虚拟手机号码注册Telegram电报](https://raw.githubusercontent.com/chinavpns/telegram/refs/heads/main/image/Telegram%E6%B3%A8%E5%86%8C-1.png)
 
-<p align="center"><a href=https://wallvpn.com/go/sms/>立即访问Sms-activate官网</a></p>
+<p align="center"><a href="https://sms-activate.io/?ref=3917403">立即访问Sms-activate官网</a></p>
 
 ## 如何使用Telegram电报？
 
