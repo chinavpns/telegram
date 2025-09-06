@@ -101,7 +101,7 @@ Telegram的功能非常丰富，不仅支持文本消息，还支持语音通话
 
 * 第一步：选择一款安全且好用的VPN
 
-由于GFW（防火长城）的存在，中国网民要想访问和使用Telegram，必须选择一款安全且好用的VPN。这一步至关重要，推荐使用：<a href="https://wallvpn.com/go/expressvpn/" rel="nofollow">ExpressVPN（$3.49/月，30天免费）</a>或<a href="https://wallvpn.com/go/strong-vpn/" rel="nofollow">StrongVPN（支持支付宝付款）</a>。ExpressVPN以其稳定的翻墙效果、快速的连接速度和强大的安全性著称，在105个国家部署了超过3000台服务器，非常适合访问Telegram、ChatGPT、TikTok等网站。
+由于GFW（防火长城）的存在，中国网民要想访问和使用Telegram，必须选择一款安全且好用的VPN。这一步至关重要，推荐使用：<a href="https://wallvpn.com/go/expressvpn/" rel="nofollow">ExpressVPN（$3.49/月，30天免费）</a>。ExpressVPN以其稳定的翻墙效果、快速的连接速度和强大的安全性著称，在105个国家部署了超过3000台服务器，非常适合访问Telegram、ChatGPT、TikTok等网站。
 
 * 第二步：打开Telegram应用
 
@@ -310,7 +310,7 @@ Telegram电报频道是用户获取信息和资讯的好渠道，允许频道管
 
 * 必须要使用VPN
 
-由于GFW（防火长城）的存在，Telegram在中国无法直接访问。因此，必须使用VPN才能正常使用Telegram。选择一个可靠的VPN服务至关重要，推荐使用<a href="https://wallvpn.com/go/expressvpn/" rel="nofollow">ExpressVPN（30天免费）</a>、<a href="https://wallvpn.com/go/purevpn/" rel="nofollow">PureVPN（每月仅需2.11美金）</a>等，这些VPN在中国的使用效果较好。
+由于GFW（防火长城）的存在，Telegram在中国无法直接访问。因此，必须使用VPN才能正常使用Telegram。选择一个可靠的VPN服务至关重要，推荐使用<a href="https://wallvpn.com/go/expressvpn/" rel="nofollow">ExpressVPN（3.49美金/月，30天免费）</a>，它在中国的使用效果较好。
 
 * 选择合适的VPN节点
 
