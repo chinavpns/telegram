@@ -82,39 +82,55 @@ Telegram为手机、电脑、平板等设备都提供了简单易用的APP客户
 
 ### 第一步：启动<a href="https://wallvpn.com/go/expressvpn/" rel="nofollow">ExpressVPN</a>，并选择一个美国节点进行连接。
 
-![注册Telegram电报第一步：启动ExpressVPN，并选择一个美国节点进行连接](https://raw.githubusercontent.com/chinavpns/telegram/refs/heads/main/image/Telegram%E6%B3%A8%E5%86%8C-4.png)
+<div align="center">
+<img src="https://raw.githubusercontent.com/chinavpns/telegram/refs/heads/main/image/Telegram%E6%B3%A8%E5%86%8C-4.png" alt="注册Telegram电报第一步：启动ExpressVPN，并选择一个美国节点进行连接">
+</div>
 
 ### 第二步：打开Telegram APP，点击“Start Messaging”按钮。
 
-![注册Telegram电报第二步：打开Telegram APP，点击“Start Messaging”按钮](https://raw.githubusercontent.com/chinavpns/telegram/refs/heads/main/image/Telegram%E6%B3%A8%E5%86%8C-5.png)
+<div align="center">
+<img src="https://raw.githubusercontent.com/chinavpns/telegram/refs/heads/main/image/Telegram%E6%B3%A8%E5%86%8C-5.png" alt="注册Telegram电报第二步：打开Telegram APP，点击“Start Messaging”按钮">
+</div>
 
 ### 第三步：选择国家（例如China），并输入手机号码。
 
 注意：你可以先尝试使用中国+86手机号来注册Telegram账号。如果使用+86手机号注册电报时收不到验证码，请尝试本文下方提供的解决方案。
 
-![注册Telegram电报第三步：选择国家（例如China），并输入手机号码](https://raw.githubusercontent.com/chinavpns/telegram/refs/heads/main/image/Telegram%E6%B3%A8%E5%86%8C-6.png)
+<div align="center">
+<img src="https://raw.githubusercontent.com/chinavpns/telegram/refs/heads/main/image/Telegram%E6%B3%A8%E5%86%8C-6.png" alt="注册Telegram电报第三步：选择国家（例如China），并输入手机号码">
+</div>
 
 ### 第四步：填写你的真实电子邮箱。
 
 注意：这一步并不一定每次都会出现，但如果出现了，建议填写真实的电子邮箱地址。
 
-![注册Telegram电报第四步：填写你的真实电子邮箱](https://raw.githubusercontent.com/chinavpns/telegram/refs/heads/main/image/Telegram%E6%B3%A8%E5%86%8C-7.png)
+<div align="center">
+<img src="https://raw.githubusercontent.com/chinavpns/telegram/refs/heads/main/image/Telegram%E6%B3%A8%E5%86%8C-7.png" alt="注册Telegram电报第四步：填写你的真实电子邮箱">
+</div>
 
 ### 第五步：输入你电子邮箱接收到的验证码。
 
-![注册Telegram电报第五步：输入你电子邮箱接收到的验证码](https://raw.githubusercontent.com/chinavpns/telegram/refs/heads/main/image/Telegram%E6%B3%A8%E5%86%8C-8.png)
+<div align="center">
+<img src="https://raw.githubusercontent.com/chinavpns/telegram/refs/heads/main/image/Telegram%E6%B3%A8%E5%86%8C-8.png" alt="注册Telegram电报第五步：输入你电子邮箱接收到的验证码">
+</div>
 
 ### 第六步：输入你手机号接收到的验证码。
 
-![注册Telegram电报第六步：输入你手机号接收到的验证码](https://raw.githubusercontent.com/chinavpns/telegram/refs/heads/main/image/Telegram%E6%B3%A8%E5%86%8C-9.png)
+<div align="center">
+<img src="https://raw.githubusercontent.com/chinavpns/telegram/refs/heads/main/image/Telegram%E6%B3%A8%E5%86%8C-9.png" alt="注册Telegram电报第六步：输入你手机号接收到的验证码">
+</div>
 
 ### 第七步：按照系统提示填写你的个人信息。
 
-![注册Telegram电报第七步：按照系统提示填写你的个人信息](https://raw.githubusercontent.com/chinavpns/telegram/refs/heads/main/image/Telegram%E6%B3%A8%E5%86%8C-10.png)
+<div align="center">
+<img src="https://raw.githubusercontent.com/chinavpns/telegram/refs/heads/main/image/Telegram%E6%B3%A8%E5%86%8C-10.png" alt="注册Telegram电报第七步：按照系统提示填写你的个人信息">
+</div>
 
 ### 第八步：完成以上步骤后，就可以开始使用Telegram啦！
 
-![注册Telegram电报第八步：完成以上步骤后，就可以开始使用Telegram啦](https://raw.githubusercontent.com/chinavpns/telegram/refs/heads/main/image/Telegram%E6%B3%A8%E5%86%8C-11.png)
+<div align="center">
+<img src="https://raw.githubusercontent.com/chinavpns/telegram/refs/heads/main/image/Telegram%E6%B3%A8%E5%86%8C-11.png" alt="注册Telegram电报第八步：完成以上步骤后，就可以开始使用Telegram啦">
+</div>
 
 ## 国内手机号注册Telegram收不到验证码怎么办？
 
