@@ -58,7 +58,7 @@ Telegram为手机、电脑、平板等设备都提供了简单易用的APP客户
 
 如果你是Android用户，那么可以通过多种方式下载Telegram客户端。首先，你可以前往Telegram官方网站，直接下载安装APK文件。其次，也可以通过APKMirror、Uptodown等第三方平台获取最新版的APK安装包。这些平台通常会对文件进行签名校验，在一定程度上能够保证应用的安全性。最后，我们更推荐你在翻墙后通过Google Play商店直接下载安装Telegram，这种方式不仅能确保应用来源的可靠性，也便于后续自动接收官方更新。
 
-注意：通过Google Play商店下载安装Telegram时，你需要提前准备一个Gmail邮箱。如果你没有Gmail邮箱，可以通过“**<a href="https://wallvpn.com/go/nf-video/">银河录像局</a>**”这个专业平台直接购买一个现成的Gmail邮箱（20元/个）。这个Gmail邮箱独属于你个人，还可以长期稳定使用。
+**注意**：通过Google Play商店下载安装Telegram时，你需要提前准备一个Gmail邮箱。如果你没有Gmail邮箱，也可以通过“**<a href="https://wallvpn.com/go/nf-video/">银河录像局</a>**”这个专业平台直接购买一个现成的Gmail邮箱（20元/个）。这个Gmail邮箱独属于你个人，还可以长期稳定使用。
 
 ![Telegram注册教程：安卓设备下载Telegram方法](https://raw.githubusercontent.com/chinavpns/telegram/refs/heads/main/image/Telegram%E6%B3%A8%E5%86%8C-3.png)
 
