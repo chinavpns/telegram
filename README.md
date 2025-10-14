@@ -8,6 +8,18 @@
 
 本文将详细介绍Telegram电报的相关内容，包括下载、注册以及使用方法。无论你是第一次接触Telegram的新手，还是曾经使用过Telegram的老用户，都可以通过本文的指导快速完成电报注册。此外，我们还会提供在中国使用Telegram的一些实用建议，帮助你轻松解决常见问题，顺畅体验Telegram带来的便利与乐趣。
 
+<blockquote>
+<h2 id="本文内容导航">本文内容导航</h2>
+<h3 id="1-国内注册电报必备工具">1. <a href="#国内注册电报必备工具">国内注册电报必备工具</a></h3>
+<h3 id="2-什么是电报telegram">2. <a href="#什么是电报telegram">什么是电报Telegram？</a></h3>
+<h3 id="3-如何下载telegram电报">3. <a href="#如何下载telegram电报">如何下载Telegram电报？</a></h3>
+<h3 id="4-如何注册telegram电报">4. <a href="#如何注册telegram电报">如何注册Telegram电报？</a></h3>
+<h3 id="5-国内手机号注册telegram收不到验证码怎么办">5. <a href="#国内手机号注册telegram收不到验证码怎么办">国内手机号注册Telegram收不到验证码怎么办？</a></h3>
+<h3 id="6-如何使用telegram电报">6. <a href="#如何使用telegram电报">如何使用Telegram电报？</a></h3>
+<h3 id="7-在中国使用telegram电报的注意事项">7. <a href="#在中国使用telegram电报的注意事项">国内使用电报注意事项</a></h3>
+<h3 id="8-电报注册总结如何注册telegram帐号">8. <a href="#电报注册总结如何注册telegram帐号">Telegram电报注册总结</a></h3>
+</blockquote>
+
 ## 国内注册电报必备工具
 
 由于Telegram被中国的防火长城（GFW）屏蔽，中国大陆用户在下载、安装、注册和使用Telegram之前，必须先成功连接VPN。很多中国用户在注册Telegram账号时收不到验证码，除了手机号问题外，最主要的原因往往是没有使用VPN，或者使用的VPN质量不过关。
