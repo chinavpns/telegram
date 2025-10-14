@@ -16,7 +16,7 @@
 
 * **<a href="https://wallvpn.com/go/strong-vpn/" rel="nofollow">StrongVPN($3.97/月，支付宝付款)</a>**：注册Telegram电报备选VPN，在中国大陆翻墙也比较稳定（全年可用率基本在80%以上）；安全性高（采用严格的无日志政策，经实测无IP、DNS或WebRTC泄漏），虽然在翻墙稳定性和连接速度等方面跟ExpressVPN有着较大的差距，但也可用于观看YouTube 1080P高清视频；在30多个国家部署了950台服务器，也可解锁Netflix、BBC iPlayer、Hulu、HBO等流媒体平台，且其所有服务器都支持种子下载；适用于Windows、Mac、iOS、Android等设备，并支持12台设备同时连接；价格也比较便宜，每月3.97美元，支持银联卡、支付宝、PayPal等付款方式，并提供30天退款保证！（推荐指数：8.5/10）
 
-OK，这两款VPN不仅可用于注册Telegram账号，还可以轻松解锁YouTube、TikTok、Netflix、Hulu、Spotify、ChatGPT、Claude、Midjourney等网站。而且它们都提供30天退款保证，不好用可以随时申请退款，大家可以放心地购买使用！
+OK，这两款VPN不仅可用于注册Telegram账号，还能轻松解锁YouTube、TikTok、Netflix、Hulu、Spotify、ChatGPT、Claude、Midjourney等网站。而且它们都提供30天退款保证，不好用可以随时申请退款，大家可以放心地购买使用！
 
 ## 什么是电报Telegram？
 
