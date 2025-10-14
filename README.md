@@ -108,7 +108,7 @@ Telegram为手机、电脑、平板等设备都提供了简单易用的APP客户
 
 最近这两年，越来越多的用户反映，在使用国内+86手机号码注册Telegram电报时收不到验证码。而出现这种情况，可能是由于GFW对Telegram进行了封锁，也可能是你使用的VPN软件不稳定，或者电信运营商拦截了来自Telegram的国际短信。还有一个重要原因是，过去几年中，很多中国用户频繁利用Telegram从事违法活动，最终导致Telegram限制了部分国内+86手机号的注册和登录。
 
-如果你在使用+86手机号注册Telegram时也遇到收不到验证码的问题，那么可以选择通过“<a href="https://sms-activate.io/?ref=3917403">Sms-activate</a>”平台获取一个国外手机号，再使用该号码注册Telegram电报；或者通过“<a href="https://accboyytbanyofai.acceboy.com/">账号星球</a>”这个平台直接购买一个现成的Telegram帐号。
+如果你在使用+86手机号注册Telegram时也遇到收不到验证码的问题，那么可以选择通过“**Sms-activate**”平台获取一个国外手机号，再使用该号码注册Telegram电报；或者通过“**账号星球**”这个平台直接购买一个现成的Telegram帐号。
 
 ### 方法一：使用国外手机号码注册Telegram
 
@@ -125,6 +125,8 @@ Telegram为手机、电脑、平板等设备都提供了简单易用的APP客户
 
 OK，当你拿到国外手机号后，重新按照前面的Telegram注册流程操作即可。通过这种方式，你可以轻松解决国内+86手机号收不到验证码的问题，顺利完成Telegram电报注册。
 
+<p align="center"><a href="https://sms-activate.io/?ref=3917403">立即访问Sms-activate官网</a></p>
+
 ### 方法二：直接购买一个现成的Telegram帐号
 
 如果你使用国内+86手机号注册Telegram电报时遇到了接收不到验证码的问题，另一种非常有效的解决办法是直接通过“<a href="https://accboyytbanyofai.acceboy.com/">账号星球</a>”这个专业平台购买一个现成的Telegram账号。这样就省去了获取国外手机号和注册Telegram帐号的繁琐流程，只需花费几十元就能得到一个可直接使用的Telegram账号，非常简单省事。
@@ -136,6 +138,8 @@ OK，当你拿到国外手机号后，重新按照前面的Telegram注册流程�
 账号星球除了提供Telegram账号外，还提供苹果ID、苹果礼品卡、TikTok帐号、Facebook账号、推特账号、谷歌Gmail邮箱、Instagram全球账号、Steam全球账号、ChatAI账号、Netflix账号、Disney+帐号、YouTube账号、LinkedIn账号等，大家可根据实际需求自行购买。
 
 ![国内手机号注册Telegram收不到验证码怎么办:直接购买一个现成的Telegram帐号](https://raw.githubusercontent.com/chinavpns/telegram/refs/heads/main/image/Telegram%E6%B3%A8%E5%86%8C-13.png)
+
+<p align="center"><a href="https://accboyytbanyofai.acceboy.com/">立即访问账号星球官网</a></p>
 
 ## 如何使用Telegram电报？
 
