@@ -34,7 +34,7 @@ Telegram的功能非常强大，不仅支持文本消息，还支持语音通话
 
 Telegram为手机、电脑、平板等设备都提供了简单易用的APP客户端。如果你想在PC电脑上下载Telegram客户端，整个流程非常简单明了，没什么好说的；而如果你想在手机上下载Telegram客户端，会相对麻烦一点点。接下来，我们将详细为大家介绍如何在PC电脑和手机等设备上快速下载Telegram客户端。
 
-### 电脑端下载Telegram方法
+### 一、电脑端下载Telegram方法
 
 无论你使用的是Windows设备，还是Mac或Linux设备，都可以直接通过Telegram官方网站来下载Telegram客户端。当你打开Telegram官网后，只需点击导航栏中的“APP”，进入Telegram官方APP下载界面，然后选择适合你设备的APP进行下载即可，非常简单。
 
@@ -42,17 +42,19 @@ Telegram为手机、电脑、平板等设备都提供了简单易用的APP客户
 
 **重要提示**：Telegram官方网站是telegram.org（即以org结尾的，而非com结尾的）。此外，如果你不想在PC设备上下载Telegram客户端，也可以直接使用Telegram的网页版（Telegram网页版地址：web.telegram.org）。你只需在浏览器中访问Telegram Web，并登录你的账号即可开始使用，同样十分方便简洁。
 
-### iOS设备下载Telegram方法
+### 二、iOS设备下载Telegram方法
 
 对于国外用户来说，下载Telegram iOS APP的方法非常简单，只需在iOS设备上打开App Store，搜索Telegram，并根据系统提示完成下载安装即可。但正如前文所说，Telegram在中国大陆被封锁了，在中国区的App Store中无法搜索到任何与Telegram相关的APP客户端。因此，对于中国用户来说，唯一的解决办法就是先获取一个美区Apple ID账号（其他地区的也可以，只要不是中国区的就行），然后使用这个美区Apple ID账号在App Store中下载Telegram iOS APP。
 
-**重要提示**：如果你不嫌麻烦，也不怕失败，那么可以自己动手注册一个美区Apple ID账号。但对于绝大多数普通用户来说，我们建议直接通过“**<a href="https://wallvpn.com/go/nf-video/">银河录像局</a>**”这个专业的第三方平台购买一个现成的美区Apple ID账号。**具体操作步骤如下：进入银河录像局官网，使用手机号注册账号；在官网首页依次点击“增值服务”和“苹果商店”，然后使用支付宝支付人民币20元，即可获得一个独属于你切可长期稳定使用的美区Apple ID账号**。
+**重要提示**：如果你不嫌麻烦，也不怕失败，那么可以自己动手注册一个美区Apple ID账号。但对于绝大多数普通用户来说，我们建议直接通过“**<a href="https://wallvpn.com/go/nf-video/">银河录像局</a>**”这个专业的第三方平台购买一个现成的美区Apple ID账号。
+
+具体操作步骤如下：进入银河录像局官网，使用手机号注册账号；在官网首页依次点击“增值服务”和“苹果商店”，然后使用支付宝支付人民币20元，即可获得一个独属于你切可长期稳定使用的美区Apple ID账号。
 
 ![Telegram注册教程：iOS设备下载Telegram方法](https://raw.githubusercontent.com/chinavpns/telegram/refs/heads/main/image/Telegram%E6%B3%A8%E5%86%8C-2.png)
 
 注意：当你通过银河录像局购买好美区Apple ID账号后，需要打开App Store并退出当前的Apple ID账号，然后使用美区Apple ID登录。当你登录成功后，在App Store中搜索“Telegram”，点击“获取”并按照提示完成下载安装即可。
 
-### 安卓设备下载Telegram方法
+### 三、安卓设备下载Telegram方法
 
 如果你是Android用户，那么可以通过多种方式下载Telegram客户端。首先，你可以前往Telegram官方网站，直接下载安装APK文件。其次，也可以通过APKMirror、Uptodown等第三方平台获取最新版的APK安装包。这些平台通常会对文件进行签名校验，在一定程度上能够保证应用的安全性。最后，我们更推荐你在翻墙后通过Google Play商店直接下载安装Telegram，这种方式不仅能确保应用来源的可靠性，也便于后续自动接收官方更新。
 
