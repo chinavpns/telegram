@@ -159,7 +159,7 @@ OK，当你拿到国外手机号后，重新按照前面的Telegram注册流程�
 
 ### 方法二：直接购买一个现成的Telegram账号
 
-如果你使用国内+86手机号注册Telegram电报时遇到了接收不到验证码的问题，另一种非常有效的解决办法是直接通过“<a href="https://accboyytbanyofai.acceboy.com/">账号星球</a>”这个专业平台购买一个现成的Telegram账号。这样就省去了获取国外手机号和注册Telegram账号的繁琐流程，只需花费几十元就能得到一个可直接使用的Telegram账号，非常简单省事。
+如果你在使用国内+86手机号注册Telegram电报时遇到了收不到验证码的问题，除了使用国外手机号之外，另一种非常有效的解决办法是直接通过“<a href="https://accboyytbanyofai.acceboy.com/">账号星球</a>”这个专业平台购买一个现成的Telegram账号。这样可以省去获取国外手机号和注册Telegram账号的繁琐流程，只需花费几十元就能获得一个可直接使用的Telegram账号，既简单又省事。
 
 ![国内手机号注册Telegram收不到验证码怎么办:直接购买一个现成的Telegram账号](https://raw.githubusercontent.com/chinavpns/telegram/refs/heads/main/image/Telegram%E6%B3%A8%E5%86%8C-12.png)
 
