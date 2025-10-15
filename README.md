@@ -76,6 +76,8 @@ Telegram为手机、电脑、平板等设备都提供了简单易用的APP客户
 
 最后，我们需要提醒大家的是，在下载Telegram APP时，务必选择从官方渠道（如Telegram官方网站、App Store、Google Play等）进行下载，以防下载到恶意软件或被篡改的版本。此外，在后续使用Telegram的过程中，也要定期检查并更新Telegram应用，以获取最新的功能和安全更新。
 
+<p align="center"><a href="https://wallvpn.com/go/nf-video/">立即访问银河录像局官网</a></p>
+
 ## 如何注册Telegram电报？
 
 注册Telegram电报其实非常简单，只需一个手机号码即可完成。不过，由于国内网络环境的特殊性，大家在注册Telegram时必须先连接VPN。否则，你不仅无法打开Telegram官网，而且在注册电报的过程中也很可能会遇到收不到验证码的情况。
