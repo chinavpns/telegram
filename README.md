@@ -163,7 +163,7 @@ OK，当你拿到国外手机号后，重新按照前面的Telegram注册流程�
 
 ![国内手机号注册Telegram收不到验证码怎么办:直接购买一个现成的Telegram账号](https://raw.githubusercontent.com/chinavpns/telegram/refs/heads/main/image/Telegram%E6%B3%A8%E5%86%8C-12.png)
 
-账号星球不仅提供多种类型的Telegram账号，并支持支付宝和微信等付款方式。你有任何问题，也可以通过账号星球官网右下角的“在线客服”寻求帮助。
+账号星球提供多种类型的Telegram账号，并支持支付宝和微信等付款方式。你有任何问题，也可以通过账号星球官网右下角的“在线客服”寻求帮助。
 
 账号星球除了提供Telegram账号外，还提供苹果ID、苹果礼品卡、TikTok账号、Facebook账号、推特账号、谷歌Gmail邮箱、Instagram全球账号、Steam全球账号、ChatAI账号、Netflix账号、Disney+账号、YouTube账号、LinkedIn账号等，大家可根据实际需求自行购买。
 
