@@ -134,7 +134,7 @@ Telegram为手机、电脑、平板等设备都提供了简单易用的APP客户
 <img src="https://raw.githubusercontent.com/chinavpns/telegram/refs/heads/main/image/Telegram%E6%B3%A8%E5%86%8C-11.png" alt="注册Telegram电报第八步：完成以上步骤后，就可以开始使用Telegram啦">
 </div>
 
-值得注意的是，我们这里以中国+86手机号为例，演示Telegram的注册流程。但在最近两年，越来越多的用户反映，使用国内+86手机号注册Telegram电报时经常会遇到收不到验证码的情况。而造成这种情况的原因包括：GFW对Telegram的封锁、所使用的VPN软件不稳定，以及电信运营商拦截来自Telegram的国际短信等。除此之外，还有一个非常重要原因是，过去几年中有许多中国用户频繁利用Telegram从事违法活动，导致Telegram限制了部分国内+86手机号的注册和登录。
+值得注意的是，我们这里以中国+86手机号为例，演示Telegram的注册流程。但在最近两年，越来越多的用户反映，使用国内+86手机号注册Telegram电报时经常会遇到收不到验证码的情况。而造成这种情况的原因包括：中国防火长城对Telegram的封锁、所使用的VPN软件不稳定，以及电信运营商拦截来自Telegram的国际短信等。除此之外，还有一个非常重要原因是，过去几年中有许多中国用户频繁利用Telegram从事违法活动，导致Telegram限制了部分国内+86手机号的注册和登录。
 
 ## 国内手机号注册Telegram收不到验证码怎么办？
 
