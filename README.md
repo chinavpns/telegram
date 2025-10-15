@@ -60,7 +60,7 @@ Telegram为手机、电脑、平板等设备都提供了简单易用的APP客户
 
 **重要提示**：如果你不嫌麻烦，也不怕失败，那么可以自己动手注册一个美区Apple ID账号。但对于绝大多数普通用户来说，我们建议直接通过“**<a href="https://wallvpn.com/go/nf-video/">银河录像局</a>**”这个专业的第三方平台购买一个现成的美区Apple ID账号。
 
-**购买步骤**：进入银河录像局官网，使用手机号注册账号；在官网首页依次点击“增值服务”和“苹果商店”，然后使用支付宝支付人民币20元，即可获得一个独属于你切可长期稳定使用的美区Apple ID账号。
+**购买步骤**：进入银河录像局官网 > 使用手机号注册账号 > 在官网首页依次点击“增值服务”和“苹果商店” > 使用支付宝支付人民币20元。然后你就可以得到一个独属于你且能长期稳定使用的美区Apple ID账号。
 
 ![Telegram注册教程：iOS设备下载Telegram方法](https://raw.githubusercontent.com/chinavpns/telegram/refs/heads/main/image/Telegram%E6%B3%A8%E5%86%8C-2.png)
 
