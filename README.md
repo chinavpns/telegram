@@ -342,7 +342,7 @@ Telegram电报频道是用户获取信息和资讯的好渠道，允许频道管
 
 如果你在使用+86手机号注册Telegram账号的过程中遇到了接收不到验证码的情况，可以通过“<a href="https://sms-activate.io/?ref=3917403">Sms-activate</a>”平台获取一个国外手机号，然后再使用该号码完成Telegram注册。这种方式能够有效绕过国内手机号的限制，为你提供了一种可靠的电报注册方案。
 
-当然，如果你不想自己动手注册Telegram账号，也可以选择通过“<a href="https://accboyytbanyofai.acceboy.com/">账号星球</a>”这个专业平台直接购买一个现成的Telegram账号。这种方式不仅操作非常简单，而且每个TG账号仅需几十元，性价比很高。此外，“账号星球”还提供TikTok账号、Facebook账号、YouTube账号等，大家可以根据实际需求自由选择。
+当然，如果你不想自己动手注册Telegram账号，也可以选择通过“<a href="https://wallvpn.com/go/acceboy/">账号星球</a>”这个专业平台直接购买一个现成的Telegram账号。这种方式不仅操作非常简单，而且每个TG账号仅需几十元，性价比很高。此外，“账号星球”还提供TikTok账号、Facebook账号、YouTube账号等，大家可以根据实际需求自由选择。
 
 当你完成Telegram注册后，就可以开始体验这款应用的各种强大功能，包括文字消息、语音通话、视频通话、加密聊天、群组和频道等。无论是个人通讯还是信息分享，Telegram都能满足你的需求，提供安全便捷的使用体验。
 
